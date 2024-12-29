@@ -1,8 +1,8 @@
 @import "./styles.css";
 
 
-:root{
-    --h-title-color:#3948d2;
+:root {
+    --h-title-color: #ff69b4; /* 粉色 */
 }
 
 .header {
